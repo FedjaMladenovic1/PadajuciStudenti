@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PadajuciStudenti",
+			"Path": "..\\Source\\PadajuciStudenti.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PadajuciStudentiEditor",
+			"Path": "..\\Source\\PadajuciStudentiEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\Source\\PadajuciStudenti\\MovingPlatform.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\ide\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\.vscode\\compileCommands_Default\\PadajuciStudenti.1.rsp"
+		],
+		"directory": "D:\\Epic Unreal Engine 5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\Source\\PadajuciStudenti\\MovingPlatform.h",
+		"arguments": [
+			"D:\\Visual Studio\\ide\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\.vscode\\compileCommands_Default\\PadajuciStudenti.1.rsp"
+		],
+		"directory": "D:\\Epic Unreal Engine 5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\Source\\PadajuciStudenti\\PadajuciStudenti.Build.cs",
+		"arguments": [
+			"D:\\Visual Studio\\ide\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\.vscode\\compileCommands_Default\\PadajuciStudenti.1.rsp"
+		],
+		"directory": "D:\\Epic Unreal Engine 5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\Source\\PadajuciStudenti\\PadajuciStudenti.cpp",
+		"arguments": [
+			"D:\\Visual Studio\\ide\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\.vscode\\compileCommands_Default\\PadajuciStudenti.1.rsp"
+		],
+		"directory": "D:\\Epic Unreal Engine 5\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\Source\\PadajuciStudenti\\PadajuciStudenti.h",
+		"arguments": [
+			"D:\\Visual Studio\\ide\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Fedja\\Documents\\Unreal Projects\\PadajuciStudenti\\.vscode\\compileCommands_Default\\PadajuciStudenti.1.rsp"
+		],
+		"directory": "D:\\Epic Unreal Engine 5\\UE_5.3\\Engine\\Source"
+	}
+]
